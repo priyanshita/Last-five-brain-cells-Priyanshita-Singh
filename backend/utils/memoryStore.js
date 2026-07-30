@@ -1,3 +1,4 @@
+//made by cinzia ,adtiya 
 const bcrypt = require('bcryptjs');
 
 // In-memory data store for fallback mode (when MongoDB is not connected)
